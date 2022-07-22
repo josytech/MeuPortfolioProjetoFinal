@@ -73,7 +73,7 @@ a{
 
  h2{
   display: flex;
-  margin-left:10%;
+  margin-left:2px;
   font-size:2em;
   letter-spacing:2px;
   color:#8f453f;
@@ -125,6 +125,22 @@ const Rodape = styled.div`
   opacity: 0.5;
 `;
 
+const Me = styled.div`
+  margin-left: 15%;
+  width: 10%;
+  height: 8vh;
+  background: #446061 0% 0% no-repeat padding-box;
+  text-align: center;
+  font: normal normal normal 16px/32px Roboto;
+  letter-spacing: 1.68px;
+  background-color:#c123de;
+  border-radius:6px;
+  font-size:3.5em;
+  font-weight:bold;
+  margin-top:5px;
+
+  
+`;
 
 
 export default function Header(){
@@ -160,7 +176,10 @@ export default function Header(){
 
         <Profile>Sou Joseane<br/>Desenvolvedora<br/> Front end</Profile>
         
-        <h2>Como desenvolvedora busco <br/>trazer soluções e <br/>inovações para transformar<br/> a vidas das pessoas!</h2>
+        <h2>Criar e desenvolver soluções para o mundo!</h2>
+        <Me>
+          <a href="https://www.linkedin.com/feed/">Saiba Mais</a>
+        </Me>
         
     
             <img src={foto} alt="foto" className="fotinha" />
