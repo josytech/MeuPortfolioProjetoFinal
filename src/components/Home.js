@@ -178,7 +178,7 @@ export default function Header(){
         
         <h2>Como desenvolvedora busco <br/>trazer soluções e <br/>inovações para transformar<br/> a vidas das pessoas!</h2>
         <Me>
-          <a href="https://www.linkedin.com/feed/" target="_blank">Saiba Mais</a>
+          <a href="https://www.linkedin.com/feed/">Saiba Mais</a>
         </Me>
         
     
