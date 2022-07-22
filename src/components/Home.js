@@ -159,16 +159,16 @@ export default function Header(){
           
         <ul>
           <Texto>
-            <a href="https://github.com/josytech?tab=repositories" target="_blank" >Portfólio</a>
+            <a href="https://github.com/josytech?tab=repositories" >Portfólio</a>
           </Texto>
 
           <Texto>
-          <a href="https://www.linkedin.com/feed/" target="_blank">Contato</a>
+          <a href="https://www.linkedin.com/feed/">Contato</a>
           </Texto>
 
 
           <Texto>
-          <a href="https://projetoonu.netlify.app/" target="_blank">MY.ONU</a>
+          <a href="https://projetoonu.netlify.app/">MY.ONU</a>
           </Texto>
 
             </ul>
